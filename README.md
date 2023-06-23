@@ -1,4 +1,3 @@
-# Word-Count
 # My Project
 
 ## Description
